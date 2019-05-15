@@ -15,7 +15,7 @@ Corrently ***only*** supports on Windows. Just download BDIX_Checker.exe and run
 
 ### Development
 
-Want to contribute? Great! You need following things:
+Want to contribute? Great! You need the following things:
 
 
 - Python
